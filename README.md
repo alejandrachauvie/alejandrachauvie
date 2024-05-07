@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-![C#](https://img.shields.io/badge/:badgeContent)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 

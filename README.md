@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-![C#]<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent"><br>
+![C#](https://img.shields.io/badge/:badgeContent)
+
 
 
 

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <img src="imagenes/minimalism-cube-wallpaper-preview.jpg" width="500"/>
+  <img src="https://get.wallhere.com/photo/illustration-cube-circle-brand-ART-color-shape-design-font-origami-paper-66424.jpg" width="500"/>
 
 ## Skills
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)<br>

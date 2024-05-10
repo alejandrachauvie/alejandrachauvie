@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<div aling="center">
   <img src="https://get.wallhere.com/photo/3840x2400-px-colorful-cube-puzzles-reflection-Rubiks-Cube-simple-background-1345183.jpg" width="1000px" height="300px" />
   <h1> Analista de Sistemas</h1>
 </div>

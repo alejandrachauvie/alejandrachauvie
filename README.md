@@ -14,7 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <img src="https://get.wallhere.com/photo/illustration-cube-circle-brand-ART-color-shape-design-font-origami-paper-66424.jpg" width="1000" height="300"/>
+  <div class="banner">
+
+        <h1>Analista de Sistemas</h1>
+    </div>
+    <style>
+
+        .banner{
+            width: 100%;
+            height: 300px;
+            background: url(https://get.wallhere.com/photo/3840x2400-px-colorful-cube-puzzles-reflection-Rubiks-Cube-simple-background-1345183.jpg);
+            background-size: cover;
+           
+        }
+        h1{
+            padding: 150px;
+            color: white;
+            text-align:center ;
+            font-family: 'Times New Roman', Times, serif;
+            font: 5em sans-serif;
+           
+        }
+
+    </style>
 
 ## Skills
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)<br>

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <img src="https://get.wallhere.com/photo/3840x2400-px-colorful-cube-puzzles-reflection-Rubiks-Cube-simple-background-1345183.jpg" width="1000px" height="400px" />
+  <img src="https://get.wallhere.com/photo/3840x2400-px-colorful-cube-puzzles-reflection-Rubiks-Cube-simple-background-1345183.jpg" width="1000px" height="300px" />
 
 ## Skills
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)<br>

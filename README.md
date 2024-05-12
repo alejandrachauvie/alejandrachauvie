@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 ## trabajos
 https://stackblitz.com/edit/vue-jh7f1q?file=src%2FApp.vue
+https://vercel.com/alejandrachauvies-projects
 
 
 
